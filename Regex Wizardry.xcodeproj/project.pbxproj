@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		580E84D22B2275E5006AEDD2 /* ContentViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 580E84D12B2275E5006AEDD2 /* ContentViewModel.swift */; };
 		581DEDB22B224F9700DB631B /* Regex_WizardryApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 581DEDB12B224F9700DB631B /* Regex_WizardryApp.swift */; };
 		581DEDB42B224F9700DB631B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 581DEDB32B224F9700DB631B /* ContentView.swift */; };
 		581DEDB62B224F9800DB631B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 581DEDB52B224F9800DB631B /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		580E84D12B2275E5006AEDD2 /* ContentViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentViewModel.swift; sourceTree = "<group>"; };
 		581DEDAE2B224F9700DB631B /* Regex Wizardry.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Regex Wizardry.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		581DEDB12B224F9700DB631B /* Regex_WizardryApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Regex_WizardryApp.swift; sourceTree = "<group>"; };
 		581DEDB32B224F9700DB631B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				581DEDB12B224F9700DB631B /* Regex_WizardryApp.swift */,
 				581DEDB32B224F9700DB631B /* ContentView.swift */,
+				580E84D12B2275E5006AEDD2 /* ContentViewModel.swift */,
 				581DEDB52B224F9800DB631B /* Assets.xcassets */,
 				581DEDB72B224F9800DB631B /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				581DEDB42B224F9700DB631B /* ContentView.swift in Sources */,
 				581DEDB22B224F9700DB631B /* Regex_WizardryApp.swift in Sources */,
+				580E84D22B2275E5006AEDD2 /* ContentViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
